@@ -73,11 +73,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# 언리얼 기본 무시 항목
+# Unreal folders to ignore
 Saved/
 Intermediate/
 DerivedDataCache/
-*.sln
-*.opensdf
-*.sdf
-*.VC.db
+*.log
+
+# Allow specific assets
+!Content/**/*.uasset
+!Content/**/*.umap
