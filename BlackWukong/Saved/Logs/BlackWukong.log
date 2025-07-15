@@ -1263,3 +1263,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.15-07.14.13:902][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Walking_Auto1
 [2025.07.15-07.14.13:902][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Walking_Auto1E05402364B917BBF10C8D38A01AD4E93.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Walking_Auto1.uasset'
 [2025.07.15-07.14.13:903][460]LogFileHelpers: Auto-saving content packages took 0.477
+[2025.07.15-07.14.58:297][594]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 647.921082
+[2025.07.15-07.14.59:292][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-07.14.59:292][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 648.583191, Update Interval: 354.968109
