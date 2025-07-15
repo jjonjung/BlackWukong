@@ -1191,3 +1191,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.15-06.02.01:610][779]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
 [2025.07.15-06.02.01:698][779]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Saved/SourceControl/UncontrolledChangelists.json
 [2025.07.15-06.03.34:147][289]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.15-06.07.16:130][954]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 336.697906
+[2025.07.15-06.07.17:119][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-06.07.17:119][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.355011, Update Interval: 323.921631
+[2025.07.15-06.12.44:900][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 665.469116
+[2025.07.15-06.12.45:901][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-06.12.45:901][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.136169, Update Interval: 313.189484
+[2025.07.15-06.14.46:971][873]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.15-06.14.47:001][873]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.15-06.14.47:010][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.15-06.14.51:710][150]LogContentBrowser: Attempting asset rename: NewFolder -> M
+[2025.07.15-06.14.51:710][150]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.15-06.14.58:050][510]LogContentBrowser: Attempting asset rename: M -> M
+[2025.07.15-06.15.08:984][138]LogContentBrowser: Attempting asset rename: M -> Asset
+[2025.07.15-06.15.14:960][471]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.15-06.15.14:998][471]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.15-06.15.15:039][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.15-06.15.18:532][683]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2025.07.15-06.15.18:532][683]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.15-06.15.20:454][785]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.15-06.15.20:478][785]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.15-06.15.20:487][786]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.15-06.15.22:300][894]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2025.07.15-06.15.22:302][894]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.15-06.18.06:543][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 987.111389
+[2025.07.15-06.18.07:542][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.15-06.18.07:542][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 987.777344, Update Interval: 337.805115
+[2025.07.15-06.18.34:580][856]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.15-06.18.51:118][714]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.15-06.18.51:146][714]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.15-06.18.51:156][715]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.15-06.18.54:647][921]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy
+[2025.07.15-06.18.54:647][921]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.15-06.18.56:762][ 25]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.15-06.18.56:808][ 25]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.15-06.18.56:846][ 26]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.15-06.18.58:876][148]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2025.07.15-06.18.58:877][148]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.15-06.19.05:263][397]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.15-06.19.05:294][397]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.15-06.19.05:315][397]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.15-06.19.05:343][399]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.15-06.19.05:412][400]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.07.15-06.19.05:418][400]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.15-06.19.07:573][494]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.15-06.19.12:223][754]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Hoseonbong
+[2025.07.15-06.19.12:380][754]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.15-06.19.12:380][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Enemy/BP_Hoseonbong] ([2] browsable assets)...
+[2025.07.15-06.19.12:380][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Enemy/BP_Hoseonbong]
+[2025.07.15-06.19.12:383][754]LogSavePackage: Moving output files for package: /Game/Characters/Enemy/BP_Hoseonbong
+[2025.07.15-06.19.12:383][754]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Saved/BP_Hoseonbong5DA920FD4CCB86AEBE91A39245BA5DA3.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Content/Characters/Enemy/BP_Hoseonbong.uasset'
+[2025.07.15-06.19.12:387][754]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.740 ms (total: 404.506 ms)
+[2025.07.15-06.19.12:426][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.07.15-06.19.12:445][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.07.15-06.19.12:463][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.07.15-06.19.12:620][754]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.15-06.19.12:620][754]LogContentValidation: Enabled validators:
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.15-06.19.12:620][754]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.15-06.19.12:621][754]AssetCheck: /Game/Characters/Enemy/BP_Hoseonbong Validating asset
+[2025.07.15-06.19.12:665][755]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Saved/SourceControl/UncontrolledChangelists.json
