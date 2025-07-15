@@ -1222,3 +1222,44 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.15-07.12.23:055][688]LogInterchangeEngine: Display: Interchange import completed [C:/Users/user/Downloads/Walking.fbx]
 [2025.07.15-07.12.23:056][688]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2025.07.15-07.12.23:056][688]LogInterchangeEngine: [Success] Import Done
+[2025.07.15-07.14.04:649][434]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18415499853071453431
+[2025.07.15-07.14.04:649][434]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.07.15-07.14.04:678][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.15-07.14.13:424][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.07.15-07.14.13:426][460]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.027
+[2025.07.15-07.14.13:427][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Beta_HighLimbsGeoSG3] ([1] browsable assets)...
+[2025.07.15-07.14.13:635][460]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Asset/Enemy/Beta_HighLimbsGeoSG3.Beta_HighLimbsGeoSG3]
+[2025.07.15-07.14.13:635][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Beta_HighLimbsGeoSG3]
+[2025.07.15-07.14.13:640][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Beta_HighLimbsGeoSG3_Auto1
+[2025.07.15-07.14.13:640][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Beta_HighLimbsGeoSG3_Auto139461D024FED23AF475A509B3AE1AFFC.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Beta_HighLimbsGeoSG3_Auto1.uasset'
+[2025.07.15-07.14.13:640][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Beta_Joints_MAT1] ([1] browsable assets)...
+[2025.07.15-07.14.13:671][460]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Asset/Enemy/Beta_Joints_MAT1.Beta_Joints_MAT1]
+[2025.07.15-07.14.13:671][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Beta_Joints_MAT1]
+[2025.07.15-07.14.13:674][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Beta_Joints_MAT1_Auto1
+[2025.07.15-07.14.13:674][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Beta_Joints_MAT1_Auto17F92CB154AECB839FDE8A59E904EDEC5.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Beta_Joints_MAT1_Auto1.uasset'
+[2025.07.15-07.14.13:675][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Idle_PhysicsAsset] ([1] browsable assets)...
+[2025.07.15-07.14.13:713][460]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Asset/Enemy/Idle_PhysicsAsset.Idle_PhysicsAsset]
+[2025.07.15-07.14.13:713][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Idle_PhysicsAsset]
+[2025.07.15-07.14.13:716][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Idle_PhysicsAsset_Auto1
+[2025.07.15-07.14.13:716][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Idle_PhysicsAsset_Auto1FE3D0EE34550AF11EA59438107097234.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Idle_PhysicsAsset_Auto1.uasset'
+[2025.07.15-07.14.13:717][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Idle_Skeleton] ([1] browsable assets)...
+[2025.07.15-07.14.13:763][460]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Asset/Enemy/Idle_Skeleton.Idle_Skeleton]
+[2025.07.15-07.14.13:763][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Idle_Skeleton]
+[2025.07.15-07.14.13:766][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Idle_Skeleton_Auto1
+[2025.07.15-07.14.13:766][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Idle_Skeleton_Auto1B25F1FB44D6E000670A9FAABA829DB49.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Idle_Skeleton_Auto1.uasset'
+[2025.07.15-07.14.13:767][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Idle] ([1] browsable assets)...
+[2025.07.15-07.14.13:792][460]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Asset/Enemy/Idle.Idle]
+[2025.07.15-07.14.13:792][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Idle]
+[2025.07.15-07.14.13:826][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Idle_Auto1
+[2025.07.15-07.14.13:827][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Idle_Auto170DD06BC4FC6984E9F64FBAC48BEADD3.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Idle_Auto1.uasset'
+[2025.07.15-07.14.13:827][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Idle_Anim] ([1] browsable assets)...
+[2025.07.15-07.14.13:858][460]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Asset/Enemy/Idle_Anim.Idle_Anim]
+[2025.07.15-07.14.13:859][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Idle_Anim]
+[2025.07.15-07.14.13:869][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Idle_Anim_Auto1
+[2025.07.15-07.14.13:869][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Idle_Anim_Auto175339A37416C982A840ADB99FDD96272.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Idle_Anim_Auto1.uasset'
+[2025.07.15-07.14.13:869][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Asset/Enemy/Walking] ([1] browsable assets)...
+[2025.07.15-07.14.13:896][460]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Asset/Enemy/Walking.Walking]
+[2025.07.15-07.14.13:896][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/Asset/Enemy/Walking]
+[2025.07.15-07.14.13:902][460]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Asset/Enemy/Walking_Auto1
+[2025.07.15-07.14.13:902][460]LogSavePackage: Moving '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Walking_Auto1E05402364B917BBF10C8D38A01AD4E93.tmp' to '../../../../../../Users/user/Desktop/first_project/BlackWukong/BlackWukong/Saved/Autosaves/Game/Asset/Enemy/Walking_Auto1.uasset'
+[2025.07.15-07.14.13:903][460]LogFileHelpers: Auto-saving content packages took 0.477
