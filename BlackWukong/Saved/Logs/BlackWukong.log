@@ -1958,3 +1958,85 @@ FPackageName: Skipped package /Game/Asset/Enemy/Unarmed_Run_Forward has a valid,
 [2025.07.16-06.54.08:069][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.16-06.54.08:069][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.16-06.54.08:069][776]AssetCheck: /Game/Characters/Player/BP_Player Validating asset
+[2025.07.16-06.55.58:967][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1420.028687
+[2025.07.16-06.55.59:971][199]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-06.55.59:971][199]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1420.697266, Update Interval: 358.796967
+[2025.07.16-07.02.18:383][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1799.446045
+[2025.07.16-07.02.19:384][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-07.02.19:384][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1800.112427, Update Interval: 357.509705
+[2025.07.16-07.09.14:126][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2215.185059
+[2025.07.16-07.09.15:126][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-07.09.15:126][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2215.850586, Update Interval: 345.818054
+[2025.07.16-07.15.49:530][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2610.584717
+[2025.07.16-07.15.50:528][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-07.15.50:528][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2611.250244, Update Interval: 341.210968
+[2025.07.16-07.18.50:638][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.07.16-07.18.50:638][ 18]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.07.16-07.18.50:639][ 18]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_0
+[2025.07.16-07.18.50:640][ 18]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_0
+[2025.07.16-07.18.51:144][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.07.16-07.18.51:150][ 32]LogEditorActor: Deleted 0 Actors (0.065 secs)
+[2025.07.16-07.18.51:160][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.07.16-07.18.51:160][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2025.07.16-07.18.51:164][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_00E04C6806F9157C02_2107507136
+[2025.07.16-07.18.51:164][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.StaticMeshActor_UAID_00E04C6806F9157C02_2107507136
+[2025.07.16-07.18.55:661][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.16-07.18.55:875][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.16-07.18.55:921][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.16-07.18.55:968][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.16-07.18.55:971][255]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/L5/4QW27LH0QF8DSAN41YMDWZ
+[2025.07.16-07.18.55:971][255]LogSavePackage: Moving '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/4QW27LH0QF8DSAN41YMDWZFE11C78D413D165888CCA39102B27A81.tmp' to '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/L5/4QW27LH0QF8DSAN41YMDWZ.uasset'
+[2025.07.16-07.18.56:001][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 340.150 ms (total: 9.34 sec)
+[2025.07.16-07.18.56:115][255]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.16-07.18.56:115][255]LogContentValidation: Enabled validators:
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.16-07.18.56:115][255]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.16-07.18.56:116][255]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.07.16-07.18.56:169][255]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.16-07.19.25:308][580]Cmd: DELETE
+[2025.07.16-07.19.25:308][580]Cmd: ACTOR DELETE
+[2025.07.16-07.19.25:309][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.07.16-07.19.25:400][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.07.16-07.19.25:407][580]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2025.07.16-07.20.31:296][858]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.16-07.20.31:315][858]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.07.16-07.20.31:323][858]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.07.16-07.20.31:342][859]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.07.16-07.20.44:266][589]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_TestEnemy
+[2025.07.16-07.20.44:290][589]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.07.16-07.20.45:464][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Player/BP_TestEnemy.BP_TestEnemy
+[2025.07.16-07.20.45:464][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.07.16-07.21.42:012][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.07.16-07.21.42:016][600]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.057
+[2025.07.16-07.21.42:017][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Player/BP_TestEnemy] ([2] browsable assets)...
+[2025.07.16-07.21.42:017][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_TestEnemy]
+[2025.07.16-07.21.42:021][600]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Player/BP_TestEnemy_Auto1
+[2025.07.16-07.21.42:021][600]LogSavePackage: Moving '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/BP_TestEnemy_Auto1CDDC038A43ED8170290011A2BAD8B8B2.tmp' to '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/Autosaves/Game/Characters/Player/BP_TestEnemy_Auto1.uasset'
+[2025.07.16-07.21.42:021][600]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.07.16-07.22.10:931][430]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.07.16-07.22.20:095][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.07.16-07.22.20:111][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.16-07.22.20:221][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Player/BP_TestEnemy] ([2] browsable assets)...
+[2025.07.16-07.22.20:233][949]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Player/BP_TestEnemy.BP_TestEnemy]
+[2025.07.16-07.22.20:233][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Player/BP_TestEnemy]
+[2025.07.16-07.22.20:233][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Player/BP_TestEnemy" FILE="../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset" SILENT=true
+[2025.07.16-07.22.20:238][949]LogSavePackage: Moving output files for package: /Game/Characters/Player/BP_TestEnemy
+[2025.07.16-07.22.20:238][949]LogSavePackage: Moving '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/BP_TestEnemy87F2744C4580A9CB6FCFC48D02C82862.tmp' to '../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset'
+[2025.07.16-07.22.20:255][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.835 ms (total: 9.48 sec)
+[2025.07.16-07.22.20:377][949]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.16-07.22.20:377][949]LogContentValidation: Enabled validators:
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.16-07.22.20:377][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.16-07.22.20:377][949]AssetCheck: /Game/Characters/Player/BP_TestEnemy Validating asset
+[2025.07.16-07.22.20:461][949]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/user/Desktop/First/BlackWukong/BlackWukong/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.16-07.22.27:629][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3008.676270
+[2025.07.16-07.22.28:628][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.16-07.22.28:628][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3009.343018, Update Interval: 318.659027
