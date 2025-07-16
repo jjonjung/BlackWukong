@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/EJ/Desktop/Unreal/Wugong/BlackWukong/Content/Characters/Player/BP_Player.uasset",
+				"C:/Users/EJ/Desktop/Unreal/Wugong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_Player.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_PlayerGameMode.uasset",
