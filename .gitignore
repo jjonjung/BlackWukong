@@ -146,6 +146,7 @@ Saved/
 Intermediate/
 DerivedDataCache/
 *.log
+*.png
 
 <<<<<<< HEAD
 Allow specific assets
