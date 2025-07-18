@@ -18,7 +18,6 @@ Build/
 *.log
 *.tmp
 *_BuiltData.uasset
-*.bin
 
 # Ignore auto-generated screenshots
 Saved/AutoScreenshot.png
