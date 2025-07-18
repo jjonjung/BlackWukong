@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_Player.uasset"
 =======
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Asset/Enemy/Beta_HighLimbsGeoSG3.uasset",
@@ -129,17 +130,26 @@
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_ThirdPersonCharacter.uasset",
 =======
 >>>>>>> ej
+=======
+>>>>>>> ej
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_Player.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_PlayerGameMode.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/2N/76IPWLJ1188RVW1PL5ZAQZ.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Mannequins/BP_DestroyZone.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/H2/XOZ2PUE38RMNZR689HMZ72.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/6V/YF30SUH766KWI4L1JUUWRH.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/41/30MNFY6DSB32JBQSXYRLLC.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/XC/S46C68D4CG1FMPLBW8ELLG.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Asset/Player/Staff.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Asset/Player/Staff_Anim.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Asset/Player/Staff_Skeleton.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Asset/Player/StaticMesh.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/L5/4QW27LH0QF8DSAN41YMDWZ.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/7Z/0TDIB2WN2W2SYD6LWBRP6U.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/BU/205YYB3SQ7TPAHT2VCH91E.uasset",
+				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/2N/76IPWLJ1188RVW1PL5ZAQZ.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_Player1.uasset",
 				"C:/Users/EJ/Desktop/Unreal/Wugong/BlackWukong/Content/Characters/Player/BP_Player.uasset",
 				"C:/Users/EJ/Desktop/Unreal/Wugong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset",
@@ -199,11 +209,6 @@
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset",
 				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/AM/VS8DKWT18W6VWT77DS0UIO.uasset",
-				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/L5/4QW27LH0QF8DSAN41YMDWZ.uasset",
-<<<<<<< HEAD
-				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Player/BP_TestEnemy.uasset",
-				"C:/Users/user/Desktop/First/BlackWukong/BlackWukong/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-=======
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Asset/Enemy/Beta_HighLimbsGeoSG3.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Asset/Enemy/Beta_Joints_MAT1.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Asset/Enemy/Idle.uasset",
@@ -214,12 +219,12 @@
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Characters/Enemy/BP_Hoseonbong.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Characters/Enemy/BD_Hoseonbong.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Characters/Enemy/ABP_Hoseonbong.uasset",
->>>>>>> ej
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/U7/64689MIRMV9QR7K8TK5CF0.uasset",
+				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8M/0YEK9OV1ZM9KFUF5NMSZGZ.uasset",
+				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/PD/U2HOOQN9PPLL3M99YYAAXL.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/Content/Characters/Enemy/Big_Hit_To_Head.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/AM/VS8DKWT18W6VWT77DS0UIO.uasset",
 				"C:/Users/user/Desktop/first_project/BlackWukong/BlackWukong/BlackWukong/Content/Characters/Enemy/BP_Hoseonbong.uasset"
->>>>>>> hy
 			]
 		}
 	]
