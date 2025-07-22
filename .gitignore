@@ -72,5 +72,7 @@ Config/DefaultGame.ini
 # Explicitly allow these folders
 !Build/*/
 
-*.uasset filter=lfs diff=lfs merge=lfs -text
-*.umap filter=lfs diff=lfs merge=lfs -text
+!*.uproject
+!Source/**
+!Content/**/*.uasset
+!Content/**/*.umap
